@@ -36,7 +36,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A BRIEFE Deſcription of the Portes, Creekes, Bayes, and Hauens, of the Weast India: Tranſlated out o
+
 1. To the right worſhipfull Sir Humfrey Gilbert Knight.
 
 #####Body#####
@@ -78,51 +78,45 @@ There are 14 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|8||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|5||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|8||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|5||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__body__|1||
-|2.|__closer__|1||
-|3.|__desc__|14||
-|4.|__div__|4| @__type__ (4) : title_page (1), dedication (1), treatise (1), part (1)|
-|5.|__figure__|1||
-|6.|__front__|1||
-|7.|__g__|263| @__ref__ (263) : char:EOLhyphen (167), char:cmbAbbrStroke (89), char:punc (7)|
-|8.|__gap__|14| @__reason__ (14) : illegible: blotted (7), illegible: faint (6), illegible: missing (1)  •  @__extent__ (14) : 1 word (2), 2 letters (2), 1 letter (9), 4 letters (1)|
-|9.|__head__|3||
-|10.|__hi__|465| @__rend__ (24) : sup (24)|
-|11.|__note__|64| @__place__ (64) : margin (64)|
-|12.|__p__|10||
-|13.|__pb__|34| @__facs__ (34) : tcp:5891:1 (2), tcp:5891:2 (2), tcp:5891:3 (2), tcp:5891:4 (2), tcp:5891:5 (2), tcp:5891:6 (2), tcp:5891:7 (2), tcp:5891:8 (2), tcp:5891:9 (2), tcp:5891:10 (2), tcp:5891:11 (2), tcp:5891:12 (2), tcp:5891:13 (2), tcp:5891:14 (2), tcp:5891:15 (2), tcp:5891:16 (2), tcp:5891:17 (2)  •  @__n__ (27) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 9 (1), 8 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1)|
-|14.|__seg__|2| @__rend__ (2) : decorInit (2)|
-|15.|__signed__|1||
-|16.|__trailer__|1||
+|1.|__closer__|1||
+|2.|__desc__|14||
+|3.|__div__|4| @__type__ (4) : title_page (1), dedication (1), treatise (1), part (1)|
+|4.|__figure__|1||
+|5.|__g__|263| @__ref__ (263) : char:EOLhyphen (167), char:cmbAbbrStroke (89), char:punc (7)|
+|6.|__gap__|14| @__reason__ (14) : illegible: blotted (7), illegible: faint (6), illegible: missing (1)  •  @__extent__ (14) : 1 word (2), 2 letters (2), 1 letter (9), 4 letters (1)|
+|7.|__head__|3||
+|8.|__hi__|465| @__rend__ (24) : sup (24)|
+|9.|__note__|64| @__place__ (64) : margin (64)|
+|10.|__p__|10||
+|11.|__pb__|34| @__facs__ (34) : tcp:5891:1 (2), tcp:5891:2 (2), tcp:5891:3 (2), tcp:5891:4 (2), tcp:5891:5 (2), tcp:5891:6 (2), tcp:5891:7 (2), tcp:5891:8 (2), tcp:5891:9 (2), tcp:5891:10 (2), tcp:5891:11 (2), tcp:5891:12 (2), tcp:5891:13 (2), tcp:5891:14 (2), tcp:5891:15 (2), tcp:5891:16 (2), tcp:5891:17 (2)  •  @__n__ (27) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 9 (1), 8 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1)|
+|12.|__seg__|2| @__rend__ (2) : decorInit (2)|
+|13.|__signed__|1||
+|14.|__trailer__|1||
